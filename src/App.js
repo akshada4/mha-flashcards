@@ -1,25 +1,55 @@
-import logo from './logo.svg';
-import './App.css';
+import Header from './components/Header'
+import FlashCards from './components/FlashCards'
+import Button from './components/Button'
+import { useState, useEffect } from 'react'
 
 function App() {
+
+  const[loading, setLoading] = useState(true);
+  const [profiles,setProfiles] = useState([]);
+  const [page, setPage] = useState(0);
+  const limit = 4;
+  let [totalNumberOfPages, setNumberOfPages] = useState(0);
+
+  useEffect (() => {
+    const getCardProfiles = async () => {
+      const [data, dataSize] = await fetchCardProfiles();
+      setLoading(false);
+      setProfiles(data);
+      setNumberOfPages(Math.floor( dataSize / limit ));
+    }
+    getCardProfiles();
+  }, []);
+
+  const fetchCardProfiles = async () => {
+    return fetch('http://localhost:5000/cards')
+    .then(res => res.json())
+    .then(data => {
+      return [data, data.length];
+    })
+  }
+
+  
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Header />
+      <div className="content">
+        <FlashCards loading={loading} 
+            cards={profiles.slice(page * limit , (page * limit) + limit)} />
+        <div className="buttons-container" style={!loading ? {display: 'block'} : {display: 'none'}}>
+          <Button id="previous" 
+              className={page === 0 ? "disabled-prev" : "prev-btn"}
+              page={page} setPage={setPage}
+              disable={page === 0}/>
+          <Button id="next" 
+              className={page < totalNumberOfPages ? 
+                                  "next-btn" : "disabled-next"} 
+              page={page} setPage={setPage} 
+              disable={page >= totalNumberOfPages}/>
+        </div> 
+      </div>
     </div>
-  );
+  )
 }
 
 export default App;

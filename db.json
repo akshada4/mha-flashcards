@@ -1,0 +1,104 @@
+{
+  "cards" :[
+    {
+	    "id": 0,
+	    "firstName": "Shoto",
+	    "lastName": "Todoroki",
+	    "background": "todoroki.png",
+	    "quirk": "Half-Cold Half-Hot"
+    },
+    {
+    	"id" : 1,
+    	"firstName": "Izuku",
+    	"lastName": "Midoriya",
+    	"background": "midoriya.png",
+    	"quirk": "One For All"
+    },
+    {
+        "id" : 2,
+        "firstName": "Bakugo",
+        "lastName": "Katsuki",
+        "background": "bakugo.png",
+        "quirk": "Explosion"
+    },
+     {
+        "id" : 3,
+        "firstName": "Denki",
+        "lastName": "Kaminari",
+        "background": "kaminari.png",
+        "quirk": "Electrification"
+    },
+    {
+        "id" : 4,
+        "firstName": "Eijiro",
+        "lastName": "Kirishima",
+        "background": "kirishima.png",
+        "quirk": "Hardening"
+
+    },
+    {
+        "id" : 5,
+        "firstName": "Ojiro",
+        "lastName": "Mashirao",
+        "background": "ojiro.png",
+        "quirk": "Tail"
+
+    },
+    {
+        "id" : 6,
+        "firstName": "Koda",
+        "lastName": "Koji",
+        "background": "koji.png",
+        "quirk": "Anivoice"
+
+    },
+    {
+        "id" : 7,
+        "firstName": "Sato",
+        "lastName": "Rikido",
+        "background": "sato.png",
+        "quirk": "Sugar Rush"
+
+    },
+    {
+        "id" : 8,
+        "firstName": "Tokoyami",
+        "lastName": "Fumikage",
+        "background": "fumikage.png",
+        "quirk": "Dark Shadow"
+
+    },
+    {
+        "id" : 9,
+        "firstName": "Aoyama",
+        "lastName": "Yuga",
+        "background": "yuga.png",
+        "quirk": "Navel Laser"
+
+    },
+    {
+        "id" : 10,
+        "firstName": "Ida",
+        "lastName": "Tenya",
+        "background": "ida.png",
+        "quirk": "Engine"
+
+    },
+    {
+        "id" : 11,
+        "firstName": "Shoji",
+        "lastName": "Mezo",
+        "background": "shoji.png",
+        "quirk": "Dupli-Arms"
+
+    },    
+    {
+        "id" : 12,
+        "firstName": "Uraraka",
+        "lastName": "Ochako",
+        "background": "ochako.png",
+        "quirk": "Zero Gravity"
+
+    }
+  ]
+}
