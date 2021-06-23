@@ -22,7 +22,7 @@ function App() {
   }, []);
 
   const fetchCardProfiles = async () => {
-    return fetch('http://localhost:5000/cards')
+    return fetch('http://localhost:8000/cards')
     .then(res => res.json())
     .then(data => {
       return [data, data.length];

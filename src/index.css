@@ -1,4 +1,12 @@
-@import url(https://db.onlinewebfonts.com/c/fab8fb009e26281572e811051fe28b80?family=Futura+Display+BQ);
+/*@import url(https://db.onlinewebfonts.com/c/fab8fb009e26281572e811051fe28b80?family=Futura+Display+BQ);*/
+
+@font-face {
+		font-family: "Futura Display BQ";
+    src: url("./fonts/futura.eot"); /* IE9*/
+    src: url("./fonts/futura1.eot") format("embedded-opentype"), /* IE6-IE8 */
+    url("./fonts/futura.woff2") format("woff2"), /* chrome firefox */
+    url("./fonts/futura.ttf") format("truetype"), /* chrome firefox opera Safari, Android, iOS 4.2+*/
+}
 
 :root {
 	--card-background: #36393d;
