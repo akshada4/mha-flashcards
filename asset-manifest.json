@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/mha-flashcards/static/css/main.3d6b2857.chunk.css",
+    "main.js": "/mha-flashcards/static/js/main.7693aafd.chunk.js",
+    "main.js.map": "/mha-flashcards/static/js/main.7693aafd.chunk.js.map",
+    "runtime-main.js": "/mha-flashcards/static/js/runtime-main.49170352.js",
+    "runtime-main.js.map": "/mha-flashcards/static/js/runtime-main.49170352.js.map",
+    "static/js/2.3c2faa35.chunk.js": "/mha-flashcards/static/js/2.3c2faa35.chunk.js",
+    "static/js/2.3c2faa35.chunk.js.map": "/mha-flashcards/static/js/2.3c2faa35.chunk.js.map",
+    "static/js/3.17e288b4.chunk.js": "/mha-flashcards/static/js/3.17e288b4.chunk.js",
+    "static/js/3.17e288b4.chunk.js.map": "/mha-flashcards/static/js/3.17e288b4.chunk.js.map",
+    "index.html": "/mha-flashcards/index.html",
+    "static/css/main.3d6b2857.chunk.css.map": "/mha-flashcards/static/css/main.3d6b2857.chunk.css.map",
+    "static/js/2.3c2faa35.chunk.js.LICENSE.txt": "/mha-flashcards/static/js/2.3c2faa35.chunk.js.LICENSE.txt",
+    "static/media/bakugo.png": "/mha-flashcards/static/media/bakugo.596653dd.png",
+    "static/media/fumikage.png": "/mha-flashcards/static/media/fumikage.916f49db.png",
+    "static/media/icons.0d5fe251.svg": "/mha-flashcards/static/media/icons.0d5fe251.svg",
+    "static/media/ida.png": "/mha-flashcards/static/media/ida.dedbae46.png",
+    "static/media/kaminari.png": "/mha-flashcards/static/media/kaminari.9c429ebc.png",
+    "static/media/kirishima.png": "/mha-flashcards/static/media/kirishima.d7f78f9c.png",
+    "static/media/koji.png": "/mha-flashcards/static/media/koji.8532880c.png",
+    "static/media/midoriya.png": "/mha-flashcards/static/media/midoriya.0f15c20b.png",
+    "static/media/ochako.png": "/mha-flashcards/static/media/ochako.577094d0.png",
+    "static/media/ojiro.png": "/mha-flashcards/static/media/ojiro.f84b028b.png",
+    "static/media/sato.png": "/mha-flashcards/static/media/sato.1d744b14.png",
+    "static/media/shoji.png": "/mha-flashcards/static/media/shoji.52fd5cc7.png",
+    "static/media/todoroki.png": "/mha-flashcards/static/media/todoroki.202f2413.png",
+    "static/media/yuga.png": "/mha-flashcards/static/media/yuga.568e54fc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49170352.js",
+    "static/js/2.3c2faa35.chunk.js",
+    "static/css/main.3d6b2857.chunk.css",
+    "static/js/main.7693aafd.chunk.js"
+  ]
+}
