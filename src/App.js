@@ -22,9 +22,10 @@ function App() {
   }, []);
 
   const fetchCardProfiles = async () => {
-    return fetch('http://localhost:8000/cards')
+    return fetch('https://akshada4.github.io/mha-data/data.json')
     .then(res => res.json())
     .then(data => {
+      console.log(data);
       return [data, data.length];
     })
   }

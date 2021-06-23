@@ -3,10 +3,6 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import "./fonts/futura.eot";
-import "./fonts/futura1.eot";
-import "./fonts/futura.woff2";
-import "./fonts/futura.ttf";
 
 ReactDOM.render(
   <React.StrictMode>
