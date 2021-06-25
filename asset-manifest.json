@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/mha-flashcards/static/css/main.6a16bbf8.chunk.css",
-    "main.js": "/mha-flashcards/static/js/main.43d2eff6.chunk.js",
-    "main.js.map": "/mha-flashcards/static/js/main.43d2eff6.chunk.js.map",
+    "main.js": "/mha-flashcards/static/js/main.c50b6150.chunk.js",
+    "main.js.map": "/mha-flashcards/static/js/main.c50b6150.chunk.js.map",
     "runtime-main.js": "/mha-flashcards/static/js/runtime-main.f267a57d.js",
     "runtime-main.js.map": "/mha-flashcards/static/js/runtime-main.f267a57d.js.map",
     "static/js/2.3c2faa35.chunk.js": "/mha-flashcards/static/js/2.3c2faa35.chunk.js",
@@ -22,7 +22,7 @@
     "static/media/kirishima.png": "/mha-flashcards/static/media/kirishima.d7f78f9c.png",
     "static/media/koji.png": "/mha-flashcards/static/media/koji.8532880c.png",
     "static/media/midoriya.png": "/mha-flashcards/static/media/midoriya.0f15c20b.png",
-    "static/media/minoru.png": "/mha-flashcards/static/media/minoru.7b27d65f.png",
+    "static/media/mineta.png": "/mha-flashcards/static/media/mineta.7b27d65f.png",
     "static/media/ochako.png": "/mha-flashcards/static/media/ochako.577094d0.png",
     "static/media/ojiro.png": "/mha-flashcards/static/media/ojiro.f84b028b.png",
     "static/media/sato.png": "/mha-flashcards/static/media/sato.1d744b14.png",
@@ -35,6 +35,6 @@
     "static/js/runtime-main.f267a57d.js",
     "static/js/2.3c2faa35.chunk.js",
     "static/css/main.6a16bbf8.chunk.css",
-    "static/js/main.43d2eff6.chunk.js"
+    "static/js/main.c50b6150.chunk.js"
   ]
 }
