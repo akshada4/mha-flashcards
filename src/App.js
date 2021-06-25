@@ -16,7 +16,7 @@ function App() {
       const [data, dataSize] = await fetchCardProfiles();
       setLoading(false);
       setProfiles(data);
-      setNumberOfPages(Math.floor( dataSize / limit ));
+      setNumberOfPages(Math.ceil( dataSize / limit ));
     }
     getCardProfiles();
   }, []);
@@ -42,10 +42,10 @@ function App() {
               page={page} setPage={setPage}
               disable={page === 0}/>
           <Button id="next" 
-              className={page < totalNumberOfPages ? 
+              className={(page < totalNumberOfPages-1) ? 
                                   "next-btn" : "disabled-next"} 
               page={page} setPage={setPage} 
-              disable={page >= totalNumberOfPages}/>
+              disable={page >= totalNumberOfPages-1}/>
         </div> 
       </div>
     </div>

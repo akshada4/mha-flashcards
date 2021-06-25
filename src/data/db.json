@@ -1,6 +1,5 @@
 {
-  "cards" :[
-    [
+  "cards" : [
   {
     "id": 0,
     "firstName": "Shoto",
@@ -113,6 +112,5 @@
     "background": "ochako.png",
     "quirk": "Zero Gravity"
   }
-]
-  ]
+ ]
 }
