@@ -8,6 +8,8 @@ const Button = ({ id, className, page, setPage, disable }) => {
 		else if (id === 'next') {
 			setPage(page+1);
 		}
+		let a = className;
+		console.log(a)
 	}
 
 	return (		
