@@ -1,17 +1,19 @@
 {
   "files": {
     "main.css": "/mha-flashcards/static/css/main.6a16bbf8.chunk.css",
-    "main.js": "/mha-flashcards/static/js/main.d103d917.chunk.js",
-    "main.js.map": "/mha-flashcards/static/js/main.d103d917.chunk.js.map",
-    "runtime-main.js": "/mha-flashcards/static/js/runtime-main.f267a57d.js",
-    "runtime-main.js.map": "/mha-flashcards/static/js/runtime-main.f267a57d.js.map",
+    "main.js": "/mha-flashcards/static/js/main.2a00c0ec.chunk.js",
+    "main.js.map": "/mha-flashcards/static/js/main.2a00c0ec.chunk.js.map",
+    "runtime-main.js": "/mha-flashcards/static/js/runtime-main.fbb2398d.js",
+    "runtime-main.js.map": "/mha-flashcards/static/js/runtime-main.fbb2398d.js.map",
     "static/js/2.3c2faa35.chunk.js": "/mha-flashcards/static/js/2.3c2faa35.chunk.js",
     "static/js/2.3c2faa35.chunk.js.map": "/mha-flashcards/static/js/2.3c2faa35.chunk.js.map",
-    "static/js/3.3241c297.chunk.js": "/mha-flashcards/static/js/3.3241c297.chunk.js",
-    "static/js/3.3241c297.chunk.js.map": "/mha-flashcards/static/js/3.3241c297.chunk.js.map",
+    "static/js/3.8cc02495.chunk.js": "/mha-flashcards/static/js/3.8cc02495.chunk.js",
+    "static/js/3.8cc02495.chunk.js.map": "/mha-flashcards/static/js/3.8cc02495.chunk.js.map",
     "index.html": "/mha-flashcards/index.html",
     "static/css/main.6a16bbf8.chunk.css.map": "/mha-flashcards/static/css/main.6a16bbf8.chunk.css.map",
     "static/js/2.3c2faa35.chunk.js.LICENSE.txt": "/mha-flashcards/static/js/2.3c2faa35.chunk.js.LICENSE.txt",
+    "static/media/ashido.png": "/mha-flashcards/static/media/ashido.7dc24155.png",
+    "static/media/asui.png": "/mha-flashcards/static/media/asui.9e6cd0e0.png",
     "static/media/bakugo.png": "/mha-flashcards/static/media/bakugo.596653dd.png",
     "static/media/fumikage.png": "/mha-flashcards/static/media/fumikage.916f49db.png",
     "static/media/index.css": "/mha-flashcards/static/media/futura.3eca449e.otf",
@@ -22,7 +24,7 @@
     "static/media/kirishima.png": "/mha-flashcards/static/media/kirishima.d7f78f9c.png",
     "static/media/koji.png": "/mha-flashcards/static/media/koji.8532880c.png",
     "static/media/midoriya.png": "/mha-flashcards/static/media/midoriya.0f15c20b.png",
-    "static/media/mineta.png": "/mha-flashcards/static/media/mineta.7b27d65f.png",
+    "static/media/mineta.png": "/mha-flashcards/static/media/mineta.573c79e4.png",
     "static/media/ochako.png": "/mha-flashcards/static/media/ochako.577094d0.png",
     "static/media/ojiro.png": "/mha-flashcards/static/media/ojiro.f84b028b.png",
     "static/media/sato.png": "/mha-flashcards/static/media/sato.1d744b14.png",
@@ -32,9 +34,9 @@
     "static/media/yuga.png": "/mha-flashcards/static/media/yuga.568e54fc.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f267a57d.js",
+    "static/js/runtime-main.fbb2398d.js",
     "static/js/2.3c2faa35.chunk.js",
     "static/css/main.6a16bbf8.chunk.css",
-    "static/js/main.d103d917.chunk.js"
+    "static/js/main.2a00c0ec.chunk.js"
   ]
 }
