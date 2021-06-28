@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mha-flashcards/static/css/main.6a16bbf8.chunk.css",
-    "main.js": "/mha-flashcards/static/js/main.2a00c0ec.chunk.js",
-    "main.js.map": "/mha-flashcards/static/js/main.2a00c0ec.chunk.js.map",
-    "runtime-main.js": "/mha-flashcards/static/js/runtime-main.fbb2398d.js",
-    "runtime-main.js.map": "/mha-flashcards/static/js/runtime-main.fbb2398d.js.map",
+    "main.js": "/mha-flashcards/static/js/main.7f721bbf.chunk.js",
+    "main.js.map": "/mha-flashcards/static/js/main.7f721bbf.chunk.js.map",
+    "runtime-main.js": "/mha-flashcards/static/js/runtime-main.993eb6ff.js",
+    "runtime-main.js.map": "/mha-flashcards/static/js/runtime-main.993eb6ff.js.map",
     "static/js/2.3c2faa35.chunk.js": "/mha-flashcards/static/js/2.3c2faa35.chunk.js",
     "static/js/2.3c2faa35.chunk.js.map": "/mha-flashcards/static/js/2.3c2faa35.chunk.js.map",
-    "static/js/3.8cc02495.chunk.js": "/mha-flashcards/static/js/3.8cc02495.chunk.js",
-    "static/js/3.8cc02495.chunk.js.map": "/mha-flashcards/static/js/3.8cc02495.chunk.js.map",
+    "static/js/3.5b517388.chunk.js": "/mha-flashcards/static/js/3.5b517388.chunk.js",
+    "static/js/3.5b517388.chunk.js.map": "/mha-flashcards/static/js/3.5b517388.chunk.js.map",
     "index.html": "/mha-flashcards/index.html",
     "static/css/main.6a16bbf8.chunk.css.map": "/mha-flashcards/static/css/main.6a16bbf8.chunk.css.map",
     "static/js/2.3c2faa35.chunk.js.LICENSE.txt": "/mha-flashcards/static/js/2.3c2faa35.chunk.js.LICENSE.txt",
@@ -25,18 +25,20 @@
     "static/media/koji.png": "/mha-flashcards/static/media/koji.8532880c.png",
     "static/media/midoriya.png": "/mha-flashcards/static/media/midoriya.0f15c20b.png",
     "static/media/mineta.png": "/mha-flashcards/static/media/mineta.573c79e4.png",
+    "static/media/momo.png": "/mha-flashcards/static/media/momo.e7cb2d40.png",
     "static/media/ochako.png": "/mha-flashcards/static/media/ochako.577094d0.png",
     "static/media/ojiro.png": "/mha-flashcards/static/media/ojiro.f84b028b.png",
     "static/media/sato.png": "/mha-flashcards/static/media/sato.1d744b14.png",
     "static/media/sero.png": "/mha-flashcards/static/media/sero.a4b52beb.png",
     "static/media/shoji.png": "/mha-flashcards/static/media/shoji.52fd5cc7.png",
     "static/media/todoroki.png": "/mha-flashcards/static/media/todoroki.202f2413.png",
+    "static/media/toru.png": "/mha-flashcards/static/media/toru.89a0e496.png",
     "static/media/yuga.png": "/mha-flashcards/static/media/yuga.568e54fc.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.fbb2398d.js",
+    "static/js/runtime-main.993eb6ff.js",
     "static/js/2.3c2faa35.chunk.js",
     "static/css/main.6a16bbf8.chunk.css",
-    "static/js/main.2a00c0ec.chunk.js"
+    "static/js/main.7f721bbf.chunk.js"
   ]
 }
